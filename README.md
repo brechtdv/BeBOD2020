@@ -6,6 +6,9 @@ Belgian National Burden of Disease Study
 ### Data
 https://github.com/brechtdv/BeBOD2020/tree/master/YLL/data
 
+### Helper functions
+https://github.com/brechtdv/BeBOD2020/blob/master/YLL/YLL-helpers.R
+
 ### Results / 2011-2015
 
 #### create dataset
